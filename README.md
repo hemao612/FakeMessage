@@ -1,2 +1,2 @@
 # FakeMessage
-An test App to test message App
+A test App to test message App
